@@ -32,4 +32,9 @@ Open either notebook in Jupyter and run it top to bottom. Each one explains, in 
 
 ## Use of AI-assisted technologies
 
-During the preparation of this work, the authors made use of general-purpose AI-assisted software tools for coding support, such as drafting and running scripts. All mathematical derivations, proofs, and numerical results reported here were conceived, reviewed, and independently verified by the authors, who take full responsibility for the content of this publication.
+During the preparation of this work, the authors used
+ChatGPT and Claude to support code development, assist in formulating mathematical proofs,
+explore the relevant literature, and improve the clarity and readability of the manuscript.
+The authors critically reviewed the AI-assisted contributions and independently verified the
+mathematical arguments, proofs, and numerical results reported in this work. The authors take
+full responsibility for the accuracy and integrity of the content of this publication.
