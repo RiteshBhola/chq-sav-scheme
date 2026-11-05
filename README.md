@@ -18,7 +18,7 @@ Some of the runs shown in the paper take many hours to compute. Rather than re-r
 
 - **`energy_coupled.npz` / `energy_noA.npz`** — how much energy is left in the material over time, with and without the elastic effect.
 - **`snapshots_coupled.npz` / `snapshots_noA.npz`** — pictures of the material's pattern at a few points in time, with and without the elastic effect.
-- **`headline_energy_dt*.npz` / `headline_mass_dt*.npz`** — energy and "is anything being lost or created" checks, run three times at different levels of time detail.
+- **`headline_energy_dt*.npz` / `headline_mass_dt*.npz` / `headline_rdrift_dt*.npz`** — energy, "is anything being lost or created" checks, and an internal-accuracy check for the simulation method itself, run three times at different levels of time detail.
 - **`snapshots_W5.npz`** — pictures of the material's pattern for a version with a stronger mixing tendency.
 
 ## `notebooks/` — see it in action
